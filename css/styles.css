@@ -514,7 +514,6 @@ p {
 
 .portfolio-header {
     border-bottom: 1px solid #e7e9fc;
-    margin-bottom: 96px;
     padding: 25px 0;
 }
 
@@ -587,7 +586,7 @@ button {
     column-gap: 24px;
     row-gap: 48px;
     margin: 0 auto;
-    margin-bottom: 72px;
+
 
 }
 
